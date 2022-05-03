@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/buscado-cep/static/css/main.946300ff.css",
+    "main.js": "/buscado-cep/static/js/main.56d70ad6.js",
+    "index.html": "/buscado-cep/index.html",
+    "main.946300ff.css.map": "/buscado-cep/static/css/main.946300ff.css.map",
+    "main.56d70ad6.js.map": "/buscado-cep/static/js/main.56d70ad6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.946300ff.css",
+    "static/js/main.56d70ad6.js"
+  ]
+}
